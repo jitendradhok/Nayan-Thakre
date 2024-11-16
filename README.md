@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Find my meal website](https://incredible-croquembouche-a0e84a.netlify.app)
 
-- 🌱 I’m currently learning **React js, Next js**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nayan-Thakre](https://github.com/Nayan-Thakre)
 
